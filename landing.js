@@ -6,5 +6,5 @@ const load = () => {
 }
 
 document.getElementById('landingContainer').addEventListener("keydown", function (e) {
-    window.location.assign("/mainGame.html")
+    window.location.assign("mainGame.html")
 });
